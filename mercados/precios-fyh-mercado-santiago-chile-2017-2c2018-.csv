@@ -1,0 +1,721 @@
+pais_id,pais,mercado,año,mes,producto,variedad,origen,precio_usd_kg,moneda_cod,moneda
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Palta/Aguacate,Hass,Chile,2.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Piña,Caramelo,Importado,1.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Chirimoya,Cultivar IV Region,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Ciruela,Angeleno,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Kiwi,Hayward,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Banana,s/especificar,Importado,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Frambuesa,s/especificar,s/especificar,2.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Naranja,Olinda Valencia,Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Limón,s/especificar,Chile,1.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Manzana,Granny Smith,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Manzana,Red Chief,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Nectarín,August Red,s/especificar,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Pera,Packam's Triumph,Chile,0.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Durazno,Florida King,Chile,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Pomelo,Start Ruby,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Uva,Red Globe,Chile,0.94,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Zapallo/Anco,Camote,Chile,0.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Apio,Americana (O),Chile,0.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Ajo,Chino,Chile,5.19,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Lechuga,Conconina(O),Chile,1.01,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Papa,Cardinal,Chile,0.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Berenjena,s/especificar,Chile,0.91,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Remolacha,s/especificar,Chile,0.55,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Cebolla,Morada (O),Chile,0.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Zanahoria,s/especificar,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Espinaca,s/especificar,Chile,1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Poroto Verde,s/especificar,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Melón,Tuna,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Choclo,Dulce O Americano,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Sandia,s/especificar,Chile,0.18,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Pepino Ensalada,s/especificar,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Ají,Americana (O),Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Pimiento,Cuatro Cascos Rojos,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Tomate,Larga Vida,Chile,0.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Enero,Tomate,Semiduro,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Palta/Aguacate,Hass,Chile,2.21,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Piña,Caramelo,Importado,1.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Chirimoya,Cultivar IV Region,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Ciruela,Angeleno,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Kiwi,Hayward,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Banana,s/especificar,Importado,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Frambuesa,s/especificar,s/especificar,1.99,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Naranja,Olinda Valencia,Chile,0.91,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Limón,s/especificar,Chile,1.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Manzana,Granny Smith,Chile,0.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Manzana,Red Chief,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Nectarín,August Red,s/especificar,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Pera,Packam's Triumph,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Pomelo,Start Ruby,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Uva,Red Globe,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Zapallo/Anco,Camote,Chile,0.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Apio,Americana (O),Chile,0.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Ajo,Chino,Chile,4.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Lechuga,Conconina(O),Chile,1.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Papa,Cardinal,Chile,0.22,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Berenjena,s/especificar,Chile,0.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Remolacha,s/especificar,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Cebolla,Morada (O),Chile,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Zanahoria,s/especificar,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Espinaca,s/especificar,Chile,1.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Poroto Verde,s/especificar,Chile,0.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Melón,Tuna,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Choclo,Dulce O Americano,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Sandia,s/especificar,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Pepino Ensalada,s/especificar,Chile,0.99,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Ají,Americana (O),Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Pimiento,Cuatro Cascos Rojos,Chile,0.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Tomate,Larga Vida,Chile,0.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Febrero,Tomate,Semiduro,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Palta/Aguacate,Hass,Chile,2.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Piña,Caramelo,Importado,1.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Chirimoya,Cultivar IV Region,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Ciruela,Angeleno,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Kiwi,Hayward,Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Banana,s/especificar,Importado,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Frambuesa,s/especificar,s/especificar,2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Naranja,Olinda Valencia,Chile,0.81,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Limón,s/especificar,Chile,1.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Manzana,Granny Smith,Chile,0.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Manzana,Red Chief,Chile,0.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Nectarín,August Red,s/especificar,0.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Pera,Packam's Triumph,Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Durazno,Florida King,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Pomelo,Start Ruby,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Uva,Red Globe,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Zapallo/Anco,Camote,Chile,0.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Apio,Americana (O),Chile,0.77,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Ajo,Chino,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Lechuga,Conconina(O),Chile,1.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Papa,Cardinal,Chile,0.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Berenjena,s/especificar,Chile,1.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Remolacha,s/especificar,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Cebolla,Morada (O),Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Zanahoria,s/especificar,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Espinaca,s/especificar,Chile,0.87,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Poroto Verde,s/especificar,Chile,1.1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Melón,Tuna,Chile,0.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Choclo,Dulce O Americano,Chile,0.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Sandia,s/especificar,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Pepino Ensalada,s/especificar,Chile,0.92,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Ají,Americana (O),Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Pimiento,Cuatro Cascos Rojos,Chile,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Tomate,Larga Vida,Chile,1.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Marzo,Tomate,Semiduro,Chile,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Palta/Aguacate,Hass,Chile,2.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Piña,Caramelo,Importado,1.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Chirimoya,Cultivar IV Region,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Ciruela,Angeleno,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Kiwi,Hayward,Chile,0.22,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Banana,s/especificar,Importado,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Frambuesa,s/especificar,s/especificar,2.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Naranja,Olinda Valencia,Chile,0.86,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Limón,s/especificar,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Manzana,Granny Smith,Chile,0.25,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Manzana,Red Chief,Chile,0.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Pera,Packam's Triumph,Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Durazno,Florida King,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Pomelo,Start Ruby,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Uva,Red Globe,Chile,0.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Zapallo/Anco,Camote,Chile,0.01,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Apio,Americana (O),Chile,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Ajo,Chino,Chile,4.79,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Lechuga,Conconina(O),Chile,1.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Papa,Cardinal,Chile,0.17,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Berenjena,s/especificar,Chile,0.86,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Remolacha,s/especificar,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Cebolla,Morada (O),Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Zanahoria,s/especificar,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Espinaca,s/especificar,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Poroto Verde,s/especificar,Chile,1.07,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Choclo,Dulce O Americano,Chile,0.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Pepino Ensalada,s/especificar,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Ají,Americana (O),Chile,0.84,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Pimiento,Cuatro Cascos Rojos,Chile,0.86,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Tomate,Larga Vida,Chile,0.94,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Abril,Tomate,Semiduro,Chile,0.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Palta/Aguacate,Hass,Chile,2.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Piña,Caramelo,Importado,1.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Chirimoya,Cultivar IV Region,Chile,3.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Ciruela,Angeleno,Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Kiwi,Hayward,Chile,0.31,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Banana,s/especificar,Importado,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Frambuesa,s/especificar,s/especificar,3.75,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Naranja,Olinda Valencia,Chile,0.81,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Limón,s/especificar,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Manzana,Granny Smith,Chile,0.24,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Manzana,Red Chief,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Pera,Packam's Triumph,Chile,0.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Pomelo,Start Ruby,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Uva,Red Globe,Chile,0.99,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Zapallo/Anco,Camote,Chile,0.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Apio,Americana (O),Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Ajo,Chino,Chile,4.75,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Lechuga,Conconina(O),Chile,1.05,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Papa,Cardinal,Chile,0.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Berenjena,s/especificar,Chile,0.79,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Remolacha,s/especificar,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Cebolla,Morada (O),Chile,0.7,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Zanahoria,s/especificar,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Espinaca,s/especificar,Chile,0.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Poroto Verde,s/especificar,Chile,0.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Choclo,Dulce O Americano,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Pepino Ensalada,s/especificar,Chile,0.77,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Ají,Americana (O),Chile,0.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Pimiento,Cuatro Cascos Rojos,Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Tomate,Larga Vida,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Mayo,Tomate,Semiduro,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Palta/Aguacate,Hass,Chile,2.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Piña,Caramelo,Importado,1.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Chirimoya,Cultivar IV Region,Chile,2.55,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Ciruela,Angeleno,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Kiwi,Hayward,Chile,0.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Banana,s/especificar,Importado,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Naranja,Olinda Valencia,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Limón,s/especificar,Chile,0.23,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Manzana,Granny Smith,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Manzana,Red Chief,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Pera,Packam's Triumph,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Pomelo,Start Ruby,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Uva,Red Globe,Chile,1.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Apio,Americana (O),Chile,0.75,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Ajo,Chino,Chile,4.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Lechuga,Conconina(O),Chile,1.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Papa,Cardinal,Chile,0.22,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Berenjena,s/especificar,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Remolacha,s/especificar,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Cebolla,Morada (O),Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Zanahoria,s/especificar,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Espinaca,s/especificar,Chile,0.85,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Poroto Verde,s/especificar,Chile,0.85,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Melón,Tuna,Chile,1.95,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Choclo,Dulce O Americano,Chile,0.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Pepino Ensalada,s/especificar,Chile,1.11,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Ají,Americana (O),Chile,1.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Pimiento,Cuatro Cascos Rojos,Chile,0.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Tomate,Larga Vida,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Junio,Tomate,Semiduro,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Palta/Aguacate,Hass,Chile,2.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Piña,Caramelo,Importado,1.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Chirimoya,Cultivar IV Region,Chile,2.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Kiwi,Hayward,Chile,0.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Banana,s/especificar,Importado,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Naranja,Olinda Valencia,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Limón,s/especificar,Chile,0.19,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Manzana,Granny Smith,Chile,0.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Manzana,Red Chief,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Pera,Packam's Triumph,Chile,0.3,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Pomelo,Start Ruby,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Uva,Red Globe,Chile,1.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Apio,Americana (O),Chile,0.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Ajo,Chino,Chile,3.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Lechuga,Conconina(O),Chile,1.7,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Papa,Cardinal,Chile,0.18,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Berenjena,s/especificar,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Remolacha,s/especificar,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Cebolla,Morada (O),Chile,0.77,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Zanahoria,s/especificar,Chile,0.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Espinaca,s/especificar,Chile,0.86,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Poroto Verde,s/especificar,Chile,0.98,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Choclo,Dulce O Americano,Chile,1.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Pepino Ensalada,s/especificar,Chile,1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Ají,Americana (O),Chile,2.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Pimiento,Cuatro Cascos Rojos,Chile,1.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Tomate,Larga Vida,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Julio,Tomate,Semiduro,Chile,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Palta/Aguacate,Hass,Chile,1.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Piña,Caramelo,Importado,1.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Chirimoya,Cultivar IV Region,Chile,2.01,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Kiwi,Hayward,Chile,0.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Banana,s/especificar,Importado,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Naranja,Olinda Valencia,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Limón,s/especificar,Chile,0.25,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Manzana,Granny Smith,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Manzana,Red Chief,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Pera,Packam's Triumph,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Pomelo,Start Ruby,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Uva,Red Globe,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Zapallo/Anco,Camote,Chile,0.06,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Apio,Americana (O),Chile,0.83,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Ajo,Chino,Chile,2.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Lechuga,Conconina(O),Chile,1.85,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Papa,Cardinal,Chile,0.21,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Berenjena,s/especificar,Chile,0.96,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Remolacha,s/especificar,Chile,0.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Cebolla,Morada (O),Chile,0.85,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Zanahoria,s/especificar,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Espinaca,s/especificar,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Poroto Verde,s/especificar,Chile,1.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Choclo,Dulce O Americano,Chile,1.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Pepino Ensalada,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Ají,Americana (O),Chile,2.88,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Pimiento,Cuatro Cascos Rojos,Chile,1.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Tomate,Larga Vida,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Agosto,Tomate,Semiduro,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Palta/Aguacate,Hass,Chile,2.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Piña,Caramelo,Importado,1.83,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Chirimoya,Cultivar IV Region,Chile,1.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Kiwi,Hayward,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Banana,s/especificar,Importado,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Naranja,Olinda Valencia,Chile,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Limón,s/especificar,Chile,0.26,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Manzana,Granny Smith,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Manzana,Red Chief,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Pera,Packam's Triumph,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Durazno,Florida King,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Pomelo,Start Ruby,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Uva,Red Globe,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Zapallo/Anco,Camote,Chile,0.07,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Apio,Americana (O),Chile,0.98,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Ajo,Chino,Chile,2.14,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Lechuga,Conconina(O),Chile,1.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Papa,Cardinal,Chile,0.2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Berenjena,s/especificar,Chile,1.24,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Remolacha,s/especificar,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Cebolla,Morada (O),Chile,0.77,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Zanahoria,s/especificar,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Espinaca,s/especificar,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Poroto Verde,s/especificar,Chile,1.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Choclo,Dulce O Americano,Chile,2.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Sandia,s/especificar,Chile,0.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Pepino Ensalada,s/especificar,Chile,0.97,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Ají,Americana (O),Chile,4.22,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Pimiento,Cuatro Cascos Rojos,Chile,1.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Tomate,Larga Vida,Chile,0.79,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Septiembre,Tomate,Semiduro,Chile,1.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Palta/Aguacate,Hass,Chile,2.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Piña,Caramelo,Importado,1.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Chirimoya,Cultivar IV Region,Chile,1.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Kiwi,Hayward,Chile,0.98,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Banana,s/especificar,Importado,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Naranja,Olinda Valencia,Chile,0.92,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Limón,s/especificar,Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Manzana,Granny Smith,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Manzana,Red Chief,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Pera,Packam's Triumph,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Durazno,Florida King,Chile,2.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Pomelo,Start Ruby,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Uva,Red Globe,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Zapallo/Anco,Camote,Chile,0.08,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Apio,Americana (O),Chile,1.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Ajo,Chino,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Lechuga,Conconina(O),Chile,1.15,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Papa,Cardinal,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Berenjena,s/especificar,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Remolacha,s/especificar,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Cebolla,Morada (O),Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Zanahoria,s/especificar,Chile,0.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Espinaca,s/especificar,Chile,0.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Poroto Verde,s/especificar,Chile,2.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Choclo,Dulce O Americano,Chile,1.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Sandia,s/especificar,Chile,0.13,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Pepino Ensalada,s/especificar,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Ají,Americana (O),Chile,1.96,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Pimiento,Cuatro Cascos Rojos,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Tomate,Larga Vida,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Octubre,Tomate,Semiduro,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Palta/Aguacate,Hass,Chile,0.85,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Piña,Caramelo,Importado,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Chirimoya,Cultivar IV Region,Chile,0.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Kiwi,Hayward,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Banana,s/especificar,Importado,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Frambuesa,s/especificar,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Naranja,Olinda Valencia,Chile,1.11,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Limón,s/especificar,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Manzana,Granny Smith,Chile,0.08,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Manzana,Red Chief,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Pera,Packam's Triumph,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Durazno,Florida King,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Pomelo,Start Ruby,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Uva,Red Globe,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Apio,Americana (O),Chile,0.83,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Ajo,Chino,Chile,1.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Lechuga,Conconina(O),Chile,0.79,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Papa,Cardinal,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Berenjena,s/especificar,Chile,1.1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Remolacha,s/especificar,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Cebolla,Morada (O),Chile,0.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Zanahoria,s/especificar,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Espinaca,s/especificar,Chile,1.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Poroto Verde,s/especificar,Chile,1.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Melón,Tuna,Chile,0.1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Choclo,Dulce O Americano,Chile,1.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Sandia,s/especificar,Chile,0.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Pepino Ensalada,s/especificar,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Ají,Americana (O),Chile,0.97,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Pimiento,Cuatro Cascos Rojos,Chile,0.84,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Tomate,Larga Vida,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Noviembre,Tomate,Semiduro,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Palta/Aguacate,Hass,Chile,2.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Piña,Caramelo,Importado,1.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Chirimoya,Cultivar IV Region,Chile,2.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Ciruela,Angeleno,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Kiwi,Hayward,Chile,3.17,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Banana,s/especificar,Importado,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Frambuesa,s/especificar,s/especificar,3.21,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Naranja,Olinda Valencia,Chile,1.17,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Limón,s/especificar,Chile,0.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Manzana,Granny Smith,Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Manzana,Red Chief,Chile,0.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Frutilla,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Nectarín,August Red,s/especificar,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Pera,Packam's Triumph,Chile,1.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Durazno,Florida King,Chile,0.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Pomelo,Start Ruby,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Uva,Red Globe,Chile,1.81,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Zapallo/Anco,Camote,Chile,0.05,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Apio,Americana (O),Chile,0.81,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Ajo,Chino,Chile,2.93,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Lechuga,Conconina(O),Chile,1.08,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Papa,Cardinal,Chile,0.47,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Berenjena,s/especificar,Chile,1.02,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Remolacha,s/especificar,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Cebolla,Morada (O),Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Zanahoria,s/especificar,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Espinaca,s/especificar,Chile,0.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Poroto Verde,s/especificar,Chile,0.86,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Melón,Tuna,Chile,0.7,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Choclo,Dulce O Americano,Chile,0.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Sandia,s/especificar,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Pepino Ensalada,s/especificar,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Ají,Americana (O),Chile,1.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Pimiento,Cuatro Cascos Rojos,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Tomate,Larga Vida,Chile,0.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2017,Diciembre,Tomate,Semiduro,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Palta/Aguacate,Hass,Chile,2.89,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Piña,Caramelo,Importado,1.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Ciruela,Black Amber,Chile,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Kiwi,Hayward,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Banana,s/especificar,Importado,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Frambuesa,s/especificar,s/especificar,2.13,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Naranja,Valencia,Chile,1.18,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Limón,s/especificar,Chile,1.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Manzana,Granny Smith,Chile,0.89,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Manzana,Scarlett,Chile,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Nectarín,s/especificar,s/especificar,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Pera,Packham's Triumph,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Durazno,s/especificar,Chile,0.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Pomelo,Start Ruby,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Uva,Red Globe,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Zapallo/Anco,Camote,Chile,0.04,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Apio,Americana (O),Chile,1.2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Ajo,Chino,Chile,2.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Lechuga,Conconina(o),Chile,1.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Papa,Asterix,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Berenjena,s/especificar,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Remolacha,s/especificar,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Cebolla,Morada(o),Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Zanahoria,s/especificar,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Espinaca,s/especificar,Chile,1.14,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Poroto Verde,s/especificar,Chile,1.01,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Melón,Tuna,Chile,0.63,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Choclo,Dulce o Americano,Chile,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Sandia,s/especificar,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Pepino Ensalada,s/especificar,Chile,0.56,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Ají,Americana (O),Chile,1.2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Pimiento,Cuatro Cascos Rojo,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Tomate,Larga Vida,Chile,1.05,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Enero,Tomate,Semiduro,Chile,0.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Palta/Aguacate,Hass,Chile,3.18,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Piña,Caramelo,Chile,1.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Ciruela,Black Amber,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Kiwi,Hayward,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Banana,s/especificar,Chile,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Frambuesa,s/especificar,Chile,2.12,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Naranja,Valencia,Chile,1.18,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Limón,s/especificar,Chile,1.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Manzana,Granny Smith,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Manzana,Scarlett,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Nectarín,s/especificar,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Pera,Packham's Triumph,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Durazno,s/especificar,Chile,0.73,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Pomelo,Start Ruby,Chile,0.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Uva,Red Globe,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Apio,Americana (O),Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Ajo,Chino,Chile,3.05,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Lechuga,Conconina(o),Chile,1.13,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Papa,Asterix,Chile,0.39,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Berenjena,s/especificar,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Remolacha,s/especificar,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Cebolla,Morada(o),Chile,0.78,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Zanahoria,s/especificar,Chile,0.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Espinaca,s/especificar,Chile,1.14,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Poroto Verde,s/especificar,Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Melón,Tuna,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Choclo,Dulce o Americano,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Sandia,s/especificar,Chile,0.3,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Pepino Ensalada,s/especificar,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Ají,Americana (O),Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Pimiento,Cuatro Cascos Rojo,Chile,0.88,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Tomate,Larga Vida,Chile,0.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Febrero,Tomate,Semiduro,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Palta/Aguacate,Hass,Chile,4.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Piña,Caramelo,Chile,1.84,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Ciruela,Black Amber,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Kiwi,Hayward,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Banana,s/especificar,Chile,1.04,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Frambuesa,s/especificar,Chile,2.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Naranja,Valencia,Chile,1.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Limón,s/especificar,Chile,2.1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Manzana,Granny Smith,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Manzana,Scarlett,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Nectarín,s/especificar,Chile,0.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Pera,Packham's Triumph,Chile,0.39,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Durazno,s/especificar,Chile,0.89,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Pomelo,Start Ruby,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Uva,Red Globe,Chile,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Zapallo/Anco,Camote,Chile,0.04,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Apio,Americana (O),Chile,1.2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Ajo,Chino,Chile,3.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Lechuga,Conconina(o),Chile,1.31,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Papa,Asterix,Chile,0.47,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Berenjena,s/especificar,Chile,1.08,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Remolacha,s/especificar,Chile,0.75,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Cebolla,Morada(o),Chile,0.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Zanahoria,s/especificar,Chile,0.39,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Espinaca,s/especificar,Chile,0.79,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Poroto Verde,s/especificar,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Melón,Tuna,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Choclo,Dulce o Americano,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Sandia,s/especificar,Chile,0.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Pepino Ensalada,s/especificar,Chile,0.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Ají,Americana (O),Chile,1.2,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Pimiento,Cuatro Cascos Rojo,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Tomate,Larga Vida,Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Marzo,Tomate,Semiduro,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Palta/Aguacate,Hass,Chile,4.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Piña,Caramelo,Chile,1.76,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Ciruela,Black Amber,Chile,0.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Kiwi,Hayward,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Banana,s/especificar,Chile,0.71,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Frambuesa,s/especificar,Chile,3.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Naranja,Valencia,Chile,1.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Limón,s/especificar,Chile,1.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Manzana,Granny Smith,Chile,0.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Manzana,Scarlett,Chile,0.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Nectarín,s/especificar,Chile,0.96,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Pera,Packham's Triumph,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Durazno,s/especificar,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Pomelo,Start Ruby,Chile,0.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Uva,Red Globe,Chile,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Apio,Americana (O),Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Ajo,Chino,Chile,2.91,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Lechuga,Conconina(o),Chile,1.19,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Papa,Asterix,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Berenjena,s/especificar,Chile,1.13,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Remolacha,s/especificar,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Cebolla,Morada(o),Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Zanahoria,s/especificar,Chile,0.39,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Espinaca,s/especificar,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Poroto Verde,s/especificar,Chile,0.9,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Melón,Tuna,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Choclo,Dulce o Americano,Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Sandia,s/especificar,Chile,0.3,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Pepino Ensalada,s/especificar,Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Ají,Americana (O),Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Pimiento,Cuatro Cascos Rojo,Chile,0.84,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Tomate,Larga Vida,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Abril,Tomate,Semiduro,Chile,0.5,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Palta/Aguacate,Hass,Chile,5.92,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Piña,Caramelo,Chile,1.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Ciruela,Black Amber,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Kiwi,Hayward,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Banana,s/especificar,Chile,0.75,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Frambuesa,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Naranja,Valencia,Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Limón,s/especificar,Chile,1.04,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Manzana,Granny Smith,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Manzana,Scarlett,Chile,0.42,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Nectarín,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Pera,Packham's Triumph,Chile,0.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Durazno,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Pomelo,Start Ruby,Chile,0.55,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Uva,Red Globe,Chile,0.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Apio,Americana (O),Chile,0.62,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Ajo,Chino,Chile,2.12,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Lechuga,Conconina(o),Chile,1.01,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Papa,Asterix,Chile,0.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Berenjena,s/especificar,Chile,1.04,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Remolacha,s/especificar,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Cebolla,Morada(o),Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Zanahoria,s/especificar,Chile,0.33,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Espinaca,s/especificar,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Poroto Verde,s/especificar,Chile,1.92,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Choclo,Dulce o Americano,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Pepino Ensalada,s/especificar,Chile,1.09,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Ají,Americana (O),Chile,0.66,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Pimiento,Cuatro Cascos Rojo,Chile,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Tomate,Larga Vida,Chile,0.72,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Mayo,Tomate,Semiduro,Chile,0.54,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Palta/Aguacate,Hass,Chile,5.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Piña,Caramelo,Chile,1.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Ciruela,Black Amber,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Kiwi,Hayward,Chile,0.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Banana,s/especificar,Chile,0.68,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Frambuesa,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Naranja,Valencia,Chile,0.55,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Limón,s/especificar,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Manzana,Granny Smith,Chile,0.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Manzana,Scarlett,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Nectarín,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Pera,Packham's Triumph,Chile,0.48,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Durazno,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Pomelo,Start Ruby,Chile,0.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Uva,Red Globe,Chile,1.06,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Apio,Americana (O),Chile,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Ajo,Chino,Chile,1.81,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Lechuga,Conconina(o),Chile,1.27,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Papa,Asterix,Chile,0.43,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Berenjena,s/especificar,Chile,1.16,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Remolacha,s/especificar,Chile,0.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Cebolla,Morada(o),Chile,0.65,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Zanahoria,s/especificar,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Espinaca,s/especificar,Chile,0.92,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Poroto Verde,s/especificar,Chile,2.45,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Melón,Tuna,Chile,1.77,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Choclo,Dulce o Americano,Chile,0.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Pepino Ensalada,s/especificar,Chile,1.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Ají,Americana (O),Chile,1.11,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Pimiento,Cuatro Cascos Rojo,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Tomate,Larga Vida,Chile,0.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Junio,Tomate,Semiduro,Chile,0.55,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Palta/Aguacate,Hass,Chile,3.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Piña,Caramelo,Chile,1.51,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Chirimoya,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Ciruela,Black Amber,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Kiwi,Hayward,Chile,0.64,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Banana,s/especificar,Chile,0.6,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Frambuesa,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Naranja,Valencia,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Limón,s/especificar,Chile,0.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Manzana,Granny Smith,Chile,0.34,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Manzana,Scarlett,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Nectarín,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Pera,Packham's Triumph,Chile,0.52,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Durazno,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Pomelo,Start Ruby,Chile,0.41,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Uva,Red Globe,Chile,1.35,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Zapallo/Anco,Camote,Chile,0.03,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Apio,Americana (O),Chile,0.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Ajo,Chino,Chile,1.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Lechuga,Conconina(o),Chile,1.67,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Papa,Asterix,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Berenjena,s/especificar,Chile,1.29,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Remolacha,s/especificar,Chile,0.63,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Cebolla,Morada(o),Chile,0.74,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Zanahoria,s/especificar,Chile,0.3,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Espinaca,s/especificar,Chile,0.83,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Poroto Verde,s/especificar,Chile,1.4,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Choclo,Dulce o Americano,Chile,1.14,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Pepino Ensalada,s/especificar,Chile,1.21,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Ají,Americana (O),Chile,1.49,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Pimiento,Cuatro Cascos Rojo,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Tomate,Larga Vida,Chile,0.93,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Julio,Tomate,Semiduro,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Palta/Aguacate,Hass,Chile,2.93,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Piña,Caramelo,Chile,1.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Chirimoya,,Chile,2.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Ciruela,Black Amber,Chile,0.39,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Kiwi,Hayward,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Banana,s/especificar,Chile,0.57,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Frambuesa,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Naranja,Valencia,Chile,0.32,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Limón,s/especificar,Chile,0.36,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Manzana,Granny Smith,Chile,0.37,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Manzana,Scarlett,Chile,0.46,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Frutilla,,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Nectarín,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Pera,Packham's Triumph,Chile,0.53,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Durazno,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Pomelo,Start Ruby,Chile,0.47,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Uva,Red Globe,Chile,1.44,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Zapallo/Anco,Camote,Chile,0.05,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Apio,Americana (O),Chile,0.59,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Ajo,Chino,Chile,1.38,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Lechuga,Conconina(o),Chile,1.82,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Papa,Asterix,Chile,0.58,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Berenjena,s/especificar,Chile,1.61,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Remolacha,s/especificar,Chile,0.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Cebolla,Morada(o),Chile,0.93,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Zanahoria,s/especificar,Chile,0.28,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Espinaca,s/especificar,Chile,0.8,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Poroto Verde,s/especificar,Chile,1.69,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Melón,Tuna,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Choclo,Dulce o Americano,Chile,1.87,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Sandia,s/especificar,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Pepino Ensalada,s/especificar,Chile,1.7,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Ají,Americana (O),Chile,2.06,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Pimiento,Cuatro Cascos Rojo,Chile,,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Tomate,Larga Vida,Chile,1.1,USD,Dolares
+208,Chile,Mercado Lo Valledor de Santiago,2018,Agosto,Tomate,Semiduro,Chile,,USD,Dolares

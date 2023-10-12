@@ -1,0 +1,761 @@
+pais_id,pais,mercado,año,mes,producto,variedad,origen,precio_usd_kg,moneda_cod,moneda
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Aguacate,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Banana,Carape,Paraguay,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Ciruela,s/especificar,Argentina,2.73,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Durazno,s/especificar,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Kiwi,s/especificar,Brasil,2.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Limon,Taiti,Paraguay,0.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Mamon,Comun,Paraguay,0.66,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Melon,Comun,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Manzana ,Roja,Argentina,1.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Manzana ,Verde,Argentina,1.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Mango,Injertado,Paraguay,0.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Naranja,Comun,Paraguay,0.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Pera,s/especificar,Paraguay,1.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Piña,Abacaxi,Argentina,0.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Pomelo,s/especificar,Paraguay,0.18,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Sandia,s/especificar,Paraguay,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Uva,Blanca,Paraguay,0.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Uva,Rosada,Argentina,0.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Aji,s/especificar,Argentina,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Ajo ,s/especificar,Argentina,3.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Apio ,s/especificar,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Batata ,Colorada,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Berenjena ,s/especificar,Paraguay,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Calabaza,s/especificar,Paraguay,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Cebolla Colorada,Cabeza Colorada,Argentina,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Coliflor,s/especificar,Paraguay,0.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Lechuga Criolla,Criolla,Paraguay,0.66,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Pimiento Verde,Verde,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Pimiento Rojo,Rojo,Paraguay,1.12,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Tomate Lisa,Lisa,Paraguay,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Tomate Santa Cruz,Santa Cruz,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Remolacha,s/especificar,Paraguay,0.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Zanahoria,s/especificar,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Enero,Zapallo,s/especificar,Paraguay,0.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Aguacate,s/especificar,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Banana,Carape,Paraguay,0.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Ciruela,s/especificar,Argentina,2.67,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Durazno,s/especificar,Paraguay,1.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Kiwi,s/especificar,Brasil,2.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Limon,Taiti,Paraguay,0.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Mamon,Comun,Paraguay,0.73,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Melon,Comun,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Manzana ,Roja,Argentina,1.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Manzana ,Verde,Argentina,1.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Mango,Injertado,Paraguay,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Naranja,Comun,Paraguay,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Pera,s/especificar,Paraguay,1.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Piña,Abacaxi,Argentina,0.68,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Pomelo,s/especificar,Paraguay,0.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Sandia,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Uva,Blanca,Paraguay,0.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Uva,Rosada,Argentina,0.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Aji,s/especificar,Argentina,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Ajo ,s/especificar,Argentina,3.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Apio ,s/especificar,Paraguay,0.71,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Batata ,Colorada,Paraguay,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Berenjena ,s/especificar,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Calabaza,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Cebolla Colorada,Cabeza Colorada,Argentina,0.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Coliflor,s/especificar,Paraguay,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Lechuga Criolla,Criolla,Paraguay,1.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Pimiento Verde,Verde,Paraguay,0.8,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Pimiento Rojo,Rojo,Paraguay,1.11,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Tomate Lisa,Lisa,Paraguay,0.7,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Tomate Santa Cruz,Santa Cruz,Paraguay,0.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Remolacha,s/especificar,Paraguay,0.68,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Zanahoria,s/especificar,Paraguay,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Febrero,Zapallo,s/especificar,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Aguacate,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Banana,Carape,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Ciruela,s/especificar,Argentina,2.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Durazno,s/especificar,Paraguay,2.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Kiwi,s/especificar,Brasil,2.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Limon,Taiti,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Mamon,Comun,Paraguay,0.7,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Mandarina,s/especificar,Paraguay,0.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Melon,Comun,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Manzana ,Roja,Argentina,6.02,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Manzana ,Verde,Argentina,1.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Mango,Injertado,Paraguay,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Naranja,Comun,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Pera,s/especificar,Paraguay,1.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Piña,Abacaxi,Argentina,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Pomelo,s/especificar,Paraguay,0.11,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Sandia,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Uva,Blanca,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Uva,Rosada,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Ajo ,s/especificar,Argentina,1.94,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Apio ,s/especificar,Paraguay,0.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Batata ,Colorada,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Berenjena ,s/especificar,Paraguay,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Calabaza,s/especificar,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Cebolla Colorada,Cabeza Colorada,Argentina,0.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Coliflor,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Lechuga Criolla,Criolla,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Pimiento Verde,Verde,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Pimiento Rojo,Rojo,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Tomate Lisa,Lisa,Paraguay,0.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Tomate Santa Cruz,Santa Cruz,Paraguay,0.74,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Remolacha,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Zanahoria,s/especificar,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Marzo,Zapallo,s/especificar,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Aguacate,s/especificar,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Banana,Carape,Paraguay,0.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Ciruela,s/especificar,Argentina,2.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Durazno,s/especificar,Paraguay,2.7,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Kiwi,s/especificar,Brasil,2.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Limon,Taiti,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Mamon,Comun,Paraguay,0.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Mandarina,s/especificar,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Melon,Comun,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Manzana ,Roja,Argentina,1.48,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Manzana ,Verde,Argentina,1.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Mango,Injertado,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Naranja,Comun,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Pera,s/especificar,Paraguay,1.04,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Piña,Abacaxi,Argentina,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Pomelo,s/especificar,Paraguay,0.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Sandia,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Uva,Blanca,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Uva,Rosada,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Ajo ,s/especificar,Argentina,3.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Apio ,s/especificar,Paraguay,0.66,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Batata ,Colorada,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Berenjena ,s/especificar,Paraguay,0.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Calabaza,s/especificar,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Cebolla Colorada,Cabeza Colorada,Argentina,0.47,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Coliflor,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Lechuga Criolla,Criolla,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Pimiento Verde,Verde,Paraguay,1.03,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Pimiento Rojo,Rojo,Paraguay,1.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Tomate Lisa,Lisa,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Tomate Santa Cruz,Santa Cruz,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Remolacha,s/especificar,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Zanahoria,s/especificar,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Abril,Zapallo,s/especificar,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Aguacate,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Banana,Carape,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Ciruela,s/especificar,Argentina,3.06,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Durazno,s/especificar,Paraguay,11.03,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Kiwi,s/especificar,Brasil,2.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Limon,Taiti,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Mamon,Comun,Paraguay,0.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Mandarina,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Melon,Comun,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Manzana ,Roja,Argentina,1.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Manzana ,Verde,Argentina,1.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Naranja,Comun,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Pera,s/especificar,Paraguay,1.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Piña,Abacaxi,Argentina,0.47,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Pomelo,s/especificar,Paraguay,0.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Sandia,s/especificar,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Uva,Blanca,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Uva,Rosada,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Ajo ,s/especificar,Argentina,3.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Apio ,s/especificar,Paraguay,0.82,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Batata ,Colorada,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Berenjena ,s/especificar,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Brocoli ,s/especificar,Paraguay,0.7,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Calabaza,s/especificar,Paraguay,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Cebolla Colorada,Cabeza Colorada,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Coliflor,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Lechuga Criolla,Criolla,Paraguay,0.71,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Pimiento Verde,Verde,Paraguay,1.1,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Pimiento Rojo,Rojo,Paraguay,1.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Tomate Lisa,Lisa,Paraguay,0.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Tomate Santa Cruz,Santa Cruz,Paraguay,0.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Remolacha,s/especificar,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Zanahoria,s/especificar,Paraguay,0.48,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Mayo,Zapallo,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Aguacate,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Banana,Carape,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Ciruela,s/especificar,Argentina,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Durazno,s/especificar,Paraguay,2.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Frutilla,s/especificar,Paraguay,4.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Kiwi,s/especificar,Brasil,2.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Limon,Taiti,Paraguay,0.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Mamon,Comun,Paraguay,0.48,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Mandarina,s/especificar,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Melon,Comun,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Manzana ,Roja,Argentina,1.2,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Manzana ,Verde,Argentina,1.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Naranja,Comun,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Pera,s/especificar,Paraguay,1.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Piña,Abacaxi,Argentina,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Pomelo,s/especificar,Paraguay,0.18,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Sandia,s/especificar,Brasil,2.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Uva,Blanca,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Uva,Rosada,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Ajo ,s/especificar,Argentina,3.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Apio ,s/especificar,Paraguay,0.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Batata ,Colorada,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Berenjena ,s/especificar,Paraguay,0.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Brocoli ,s/especificar,Paraguay,0.65,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Calabaza,s/especificar,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Cebolla Colorada,Cabeza Colorada,Argentina,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Coliflor,s/especificar,Paraguay,0.6,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Lechuga Criolla,Criolla,Paraguay,0.81,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Pimiento Verde,Verde,Paraguay,1.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Pimiento Rojo,Rojo,Paraguay,1.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Tomate Lisa,Lisa,Paraguay,0.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Tomate Santa Cruz,Santa Cruz,Paraguay,0.81,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Remolacha,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Zanahoria,s/especificar,Paraguay,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Junio,Zapallo,s/especificar,Paraguay,0.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Aguacate,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Banana,Carape,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Ciruela,s/especificar,Argentina,3.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Durazno,s/especificar,Paraguay,2.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Frutilla,s/especificar,Paraguay,3.48,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Kiwi,s/especificar,Brasil,2.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Limon,Taiti,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Mamon,Comun,Paraguay,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Mandarina,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Melon,Comun,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Manzana ,Roja,Argentina,1.18,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Manzana ,Verde,Argentina,1.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Naranja,Comun,Paraguay,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Pera,s/especificar,Paraguay,1.07,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Piña,Abacaxi,Argentina,0.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Pomelo,s/especificar,Paraguay,0.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Sandia,s/especificar,Brasil,2.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Uva,Blanca,Brasil,2.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Uva ,Negra ,Argentina,1.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Uva,Rosada,Brasil,1.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Aji,s/especificar,Argentina,1.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Ajo ,s/especificar,Argentina,3.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Apio ,s/especificar,Paraguay,0.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Batata ,Colorada,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Berenjena ,s/especificar,Paraguay,0.92,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Brocoli ,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Calabaza,s/especificar,Paraguay,0.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Cebolla Colorada,Cabeza Colorada,Argentina,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Coliflor,s/especificar,Paraguay,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Lechuga Criolla,Criolla,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Pimiento Verde,Verde,Paraguay,1.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Pimiento Rojo,Rojo,Paraguay,1.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Tomate Lisa,Lisa,Paraguay,0.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Tomate Santa Cruz,Santa Cruz,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Remolacha,s/especificar,Paraguay,0.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Zanahoria,s/especificar,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Julio,Zapallo,s/especificar,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Aguacate,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Banana,Carape,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Ciruela,s/especificar,Argentina,3.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Durazno,s/especificar,Paraguay,2.74,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Frutilla,s/especificar,Paraguay,2.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Kiwi,s/especificar,Brasil,2.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Limon,Taiti,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Mamon,Comun,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Mandarina,s/especificar,Paraguay,0.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Melon,Comun,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Manzana ,Roja,Argentina,1.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Manzana ,Verde,Argentina,1.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Naranja,Comun,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Pera,s/especificar,Paraguay,1.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Piña,Abacaxi,Argentina,0.64,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Pomelo,s/especificar,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Sandia,s/especificar,Brasil,1.81,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Uva,Blanca,Brasil,1.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Uva,Rosada,Brasil,1.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Ajo ,s/especificar,Argentina,3.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Apio ,s/especificar,Paraguay,0.65,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Batata ,Colorada,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Berenjena ,s/especificar,Paraguay,1.07,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Brocoli ,s/especificar,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Calabaza,s/especificar,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Cebolla Colorada,Cabeza Colorada,Argentina,0.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Coliflor,s/especificar,Paraguay,0.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Lechuga Criolla,Criolla,Paraguay,0.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Pimiento Verde,Verde,Paraguay,1.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Pimiento Rojo,Rojo,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Tomate Lisa,Lisa,Paraguay,0.96,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Tomate Santa Cruz,Santa Cruz,Paraguay,0.92,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Remolacha,s/especificar,Paraguay,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Zanahoria,s/especificar,Paraguay,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Agosto,Zapallo,s/especificar,Paraguay,0.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Aguacate,s/especificar,Paraguay,0.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Banana,Carape,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Ciruela,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Durazno,s/especificar,Paraguay,2.83,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Frutilla,s/especificar,Paraguay,2.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Kiwi,s/especificar,Brasil,2.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Limon,Taiti,Paraguay,1.04,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Mamon,Comun,Paraguay,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Mandarina,s/especificar,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Melon,Comun,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Manzana ,Roja,Argentina,1.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Manzana ,Verde,Argentina,1.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Mango,Injertado,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Naranja,Comun,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Pera,s/especificar,Paraguay,1.1,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Piña,Abacaxi,Argentina,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Pomelo,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Sandia,s/especificar,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Uva,Blanca,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Uva ,Negra ,Argentina,1.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Uva,Rosada,Brasil,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Ajo ,s/especificar,Argentina,3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Apio ,s/especificar,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Batata ,Colorada,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Berenjena ,s/especificar,Paraguay,0.98,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Brocoli ,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Calabaza,s/especificar,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Cebolla Colorada,Cabeza Colorada,argentina,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Coliflor,s/especificar,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Lechuga Criolla,Criolla,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Pimiento Verde,Verde,Paraguay,1.11,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Pimiento Rojo,Rojo,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Tomate Lisa,Lisa,Paraguay,0.92,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Tomate Santa Cruz,Santa Cruz,Paraguay,0.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Remolacha,s/especificar,Paraguay,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Zanahoria,s/especificar,Paraguay,0.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Septiembre,Zapallo,s/especificar,Paraguay,0.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Aguacate,s/especificar,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Banana,Carape,Paraguay,0.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Ciruela,s/especificar,Argentina,3.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Durazno,s/especificar,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Frutilla,s/especificar,Paraguay,2.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Kiwi,s/especificar,Brasil,2.99,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Limon,Taiti,Paraguay,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Mamon,Comun,Paraguay,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Melon,Comun,Paraguay,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Manzana ,Roja,Argentina,1.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Manzana ,Verde,Argentina,1.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Naranja,Comun,Paraguay,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Pera,s/especificar,Paraguay,1.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Piña,Abacaxi,Argentina,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Pomelo,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Sandia,s/especificar,Paraguay,1.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Uva,Blanca,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Uva,Rosada,Brasil,1.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Ajo ,s/especificar,Argentina,2.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Apio ,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Batata ,Colorada,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Berenjena ,s/especificar,Paraguay,0.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Brocoli ,s/especificar,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Calabaza,s/especificar,Paraguay,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Cebolla Colorada,Cabeza Colorada,argentina,0.81,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Coliflor,s/especificar,Paraguay,0.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Lechuga Criolla,Criolla,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Pimiento Verde,Verde,Paraguay,1.06,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Pimiento Rojo,Rojo,Paraguay,2.8,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Tomate Lisa,Lisa,Paraguay,0.95,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Tomate Santa Cruz,Santa Cruz,Paraguay,1,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Remolacha,s/especificar,Paraguay,0.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Zanahoria,s/especificar,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Octubre,Zapallo,s/especificar,Paraguay,0.47,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Aguacate,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Banana,Carape,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Ciruela,s/especificar,Argentina,3.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Durazno,s/especificar,Paraguay,0.98,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Frutilla,s/especificar,Paraguay,2.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Kiwi,s/especificar,Brasil,3.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Limon,Taiti,Paraguay,0.96,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Mamon,Comun,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Mandarina,s/especificar,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Melon,Comun,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Manzana ,Roja,Argentina,1.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Manzana ,Verde,Argentina,1.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Mango,Injertado,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Naranja,Comun,Paraguay,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Pera,s/especificar,Paraguay,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Piña,Abacaxi,Argentina,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Pomelo,s/especificar,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Sandia,s/especificar,Paraguay,1.07,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Uva,Blanca,Paraguay,1.08,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Uva,Rosada,Brasil,1.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Ajo ,s/especificar,Argentina,2.11,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Apio ,s/especificar,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Batata ,Colorada,Paraguay,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Berenjena ,s/especificar,Paraguay,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Brocoli ,s/especificar,Paraguay,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Calabaza,s/especificar,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Cebolla Colorada,Cabeza Colorada,argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Coliflor,s/especificar,Paraguay,0.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Lechuga Criolla,Criolla,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Pimiento Verde,Verde,Paraguay,1.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Pimiento Rojo,Rojo,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Tomate Lisa,Lisa,Paraguay,0.95,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Tomate Santa Cruz,Santa Cruz,Paraguay,1.01,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Remolacha,s/especificar,Paraguay,0.6,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Zanahoria,s/especificar,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Noviembre,Zapallo,s/especificar,Paraguay,0.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Aguacate,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Banana,Carape,Paraguay,0.72,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Ciruela,s/especificar,Argentina,3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Durazno,s/especificar,Paraguay,0.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Frutilla,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Kiwi,s/especificar,Brasil,3.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Limon,Taiti,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Mamon,Comun,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Melon,Comun,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Manzana ,Roja,Argentina,1.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Manzana ,Verde,Argentina,1.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Mango,Injertado,Paraguay,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Naranja,Comun,Paraguay,0.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Pera,s/especificar,Paraguay,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Piña,Abacaxi,Argentina,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Pomelo,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Sandia,s/especificar,Paraguay,0.89,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Uva,Blanca,Paraguay,1.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Uva ,Negra ,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Uva,Rosada,Brasil,1.79,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Aji,s/especificar,Argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Ajo ,s/especificar,Argentina,1.97,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Apio ,s/especificar,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Batata ,Colorada,Paraguay,0.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Berenjena ,s/especificar,Paraguay,0.48,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Brocoli ,s/especificar,Paraguay,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Calabaza,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Cebolla Colorada,Cabeza Colorada,argentina,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Coliflor,s/especificar,Paraguay,0.74,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Lechuga Criolla,Criolla,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Pimiento Verde,Verde,Paraguay,1.09,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Pimiento Rojo,Rojo,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Tomate Lisa,Lisa,Paraguay,1.02,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Tomate Santa Cruz,Santa Cruz,Paraguay,1.04,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Remolacha,s/especificar,Paraguay,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Zanahoria,s/especificar,Paraguay,0.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2017,Diciembre,Zapallo,s/especificar,Paraguay,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Aguacate,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Banana,Carape,Paraguay,0.6,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Ciruela,s/especificar,Argentina,3.03,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Durazno,s/especificar,Brasil,2.85,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Frutilla,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Kiwi,s/especificar,Brasil,3.13,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Limon,Taiti,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Mamon,Comun,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Melon,Comun,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Manzana ,Roja,Argentina,1.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Manzana ,Verde,Argentina,1.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Mango,Injertado,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Naranja,Comun,Argentina,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Pera,s/especificar,Argentina,1.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Piña,Abacaxi,Paraguay,0.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Pomelo,s/especificar,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Sandia,s/especificar,Brasil,1.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Uva,Blanca,Varios,1.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Uva ,Negra ,Varios,2.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Uva,Rosada,Varios,1.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Aji,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Ajo ,s/especificar,Argentina,1.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Apio ,s/especificar,Paraguay,0.64,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Batata ,Colorada,Paraguay,0.17,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Berenjena ,s/especificar,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Brocoli ,s/especificar,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Calabaza,s/especificar,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Cebolla colorada,cabeza colorada,Varios,1.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Coliflor,s/especificar,Paraguay,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Lechuga criolla,Criolla,Paraguay,0.68,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Pimiento verde,Verde,Paraguay,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Pimiento rojo,Rojo,Brasil,2.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Tomate lisa,Lisa,Varios,0.84,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Tomate santa cruz,Santa cruz,Paraguay,0.82,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Remolacha,s/especificar,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Zanahoria,s/especificar,Paraguay,0.64,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Enero,Zapallo,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Aguacate,s/especificar,Paraguay,0.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Banana,Carape,Paraguay,0.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Ciruela,s/especificar,Argentina,3.01,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Durazno,s/especificar,Brasil,2.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Frutilla,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Kiwi,s/especificar,Brasil,3.04,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Limon,Taiti,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Mamon,Comun,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Melon,Comun,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Manzana ,Roja,Argentina,1.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Manzana ,Verde,Argentina,1.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Mango,Injertado,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Naranja,Comun,Argentina,1.09,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Pera,s/especificar,Argentina,1.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Piña,Abacaxi,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Pomelo,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Sandia,s/especificar,Brasil,2.09,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Uva,Blanca,Varios,2.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Uva ,Negra ,Varios,2.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Uva,Rosada,Varios,1.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Aji,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Ajo ,s/especificar,Argentina,1.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Apio ,s/especificar,Paraguay,0.66,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Batata ,Colorada,Paraguay,0.2,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Berenjena ,s/especificar,Paraguay,0.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Calabaza,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Cebolla colorada,cabeza colorada,Varios,0.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Coliflor,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Lechuga criolla,Criolla,Paraguay,0.7,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Pimiento verde,Verde,Paraguay,1.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Pimiento rojo,Rojo,Brasil,2.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Tomate lisa,Lisa,Varios,0.85,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Tomate santa cruz,Santa cruz,Paraguay,0.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Remolacha,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Zanahoria,s/especificar,Paraguay,0.64,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Febrero,Zapallo,s/especificar,Paraguay,0.2,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Aguacate,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Banana,Carape,Paraguay,0.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Ciruela,s/especificar,Argentina,2.89,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Durazno,s/especificar,Brasil,2.86,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Frutilla,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Kiwi,s/especificar,Brasil,3.09,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Limon,Taiti,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Mamon,Comun,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Mandarina,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Melon,Comun,Paraguay,0.32,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Manzana ,Roja,Argentina,1.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Manzana ,Verde,Argentina,1.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Mango,Injertado,Paraguay,0.55,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Naranja,Comun,Argentina,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Pera,s/especificar,Argentina,1.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Piña,Abacaxi,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Pomelo,s/especificar,Paraguay,0.18,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Sandia,s/especificar,Brasil,2.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Uva,Blanca,Varios,2.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Uva ,Negra ,Varios,2.44,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Uva,Rosada,Varios,1.67,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Aji,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Ajo ,s/especificar,Argentina,1.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Apio ,s/especificar,Paraguay,0.62,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Batata ,Colorada,Paraguay,0.2,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Berenjena ,s/especificar,Paraguay,0.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Brocoli ,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Calabaza,s/especificar,Paraguay,0.2,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Cebolla colorada,cabeza colorada,Varios,0.65,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Coliflor,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Lechuga criolla,Criolla,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Pimiento verde,Verde,Paraguay,0.94,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Pimiento rojo,Rojo,Brasil,2.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Tomate lisa,Lisa,Varios,0.82,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Tomate santa cruz,Santa cruz,Paraguay,0.68,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Remolacha,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Zanahoria,s/especificar,Paraguay,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Marzo,Zapallo,s/especificar,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Aguacate,s/especificar,Paraguay,0.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Banana,Carape,Paraguay,0.66,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Ciruela,s/especificar,Argentina,3.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Durazno,s/especificar,Brasil,2.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Frutilla,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Kiwi,s/especificar,Brasil,3.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Limon,Taiti,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Mamon,Comun,Paraguay,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Mandarina,s/especificar,Paraguay,0.52,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Melon,Comun,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Manzana ,Roja,Argentina,1.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Manzana ,Verde,Argentina,1.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Mango,Injertado,Paraguay,0.58,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Naranja,Comun,Argentina,0.74,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Pera,s/especificar,Argentina,1.15,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Piña,Abacaxi,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Pomelo,s/especificar,Paraguay,0.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Sandia,s/especificar,Brasil,2.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Uva,Blanca,Varios,2.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Uva ,Negra ,Varios,2.06,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Uva,Rosada,Varios,2.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Aji,,,,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Ajo ,s/especificar,Argentina,1.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Apio ,s/especificar,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Batata ,Colorada,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Berenjena ,s/especificar,Paraguay,0.63,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Brocoli ,s/especificar,Paraguay,0.9,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Calabaza,s/especificar,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Cebolla colorada,cabeza colorada,Varios,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Coliflor,s/especificar,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Lechuga criolla,Criolla,Paraguay,0.85,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Pimiento verde,Verde,Paraguay,1.08,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Pimiento rojo,Rojo,Brasil,2.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Tomate lisa,Lisa,Varios,0.85,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Tomate santa cruz,Santa cruz,Paraguay,0.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Remolacha,s/especificar,Paraguay,0.73,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Zanahoria,s/especificar,Paraguay,0.62,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Abril,Zapallo,s/especificar,Paraguay,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Aguacate,s/especificar,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Banana,Carape,Paraguay,0.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Ciruela,s/especificar,Argentina,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Durazno,s/especificar,Brasil,2.47,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Frutilla,,,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Kiwi,s/especificar,Brasil,3.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Limon,Taiti,Paraguay,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Mamon,Comun,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Mandarina,s/especificar,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Melon,Comun,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Manzana ,Roja,Argentina,0.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Manzana ,Verde,Argentina,1.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Mango,Injertado,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Naranja,Comun,Argentina,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Pera,s/especificar,Argentina,0.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Piña,Abacaxi,Paraguay,0.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Pomelo,s/especificar,Paraguay,1.57,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Sandia,s/especificar,Brasil,2.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Uva,Blanca,Varios,2.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Uva ,Negra ,Varios,2.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Uva,Rosada,Varios,2.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Aji,,,1.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Ajo ,s/especificar,Argentina,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Apio ,s/especificar,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Batata ,Colorada,Paraguay,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Berenjena ,s/especificar,Paraguay,0.95,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Brocoli ,s/especificar,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Calabaza,s/especificar,Paraguay,0.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Cebolla colorada,cabeza colorada,Varios,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Coliflor,s/especificar,Paraguay,1.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Lechuga criolla,Criolla,Paraguay,0.93,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Pimiento verde,Verde,Paraguay,2.46,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Pimiento rojo,Rojo,Brasil,0.41,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Tomate lisa,Lisa,Varios,0.76,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Tomate santa cruz,Santa cruz,Paraguay,0.71,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Remolacha,s/especificar,Paraguay,0.6,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Zanahoria,s/especificar,Paraguay,0.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Mayo,Zapallo,s/especificar,Paraguay,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Aguacate,s/especificar,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Banana,Carape,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Ciruela,s/especificar,Argentina,2.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Durazno,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Frutilla,,,4.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Kiwi,s/especificar,Brasil,3.01,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Limon,Taiti,Paraguay,0.4,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Mamon,Comun,Paraguay,0.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Mandarina,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Melon,Comun,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Manzana ,Roja,Argentina,1.12,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Manzana ,Verde,Argentina,1.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Mango,Injertado,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Naranja,Comun,Argentina,1.12,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Pera,s/especificar,Argentina,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Piña,Abacaxi,Paraguay,0.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Pomelo,s/especificar,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Sandia,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Uva,Blanca,Varios,2.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Uva ,Negra ,Varios,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Uva,Rosada,Varios,2.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Aji,,,1.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Ajo ,s/especificar,Argentina,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Apio ,s/especificar,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Batata ,Colorada,Paraguay,0.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Berenjena ,s/especificar,Paraguay,0.86,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Brocoli ,s/especificar,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Calabaza,s/especificar,Paraguay,0.61,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Cebolla colorada,cabeza colorada,Varios,1.38,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Coliflor,s/especificar,Paraguay,1.67,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Lechuga criolla,Criolla,Paraguay,0.89,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Pimiento verde,Verde,Paraguay,2.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Pimiento rojo,Rojo,Brasil,0.89,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Tomate lisa,Lisa,Varios,0.83,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Tomate santa cruz,Santa cruz,Paraguay,0.83,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Remolacha,s/especificar,Paraguay,0.5,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Zanahoria,s/especificar,Paraguay,0.43,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Junio,Zapallo,s/especificar,Paraguay,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Aguacate,s/especificar,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Banana,Carape,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Ciruela,s/especificar,Argentina,2.83,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Durazno,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Frutilla,,,4.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Kiwi,s/especificar,Brasil,2.65,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Limon,Taiti,Paraguay,0.34,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Mamon,Comun,Paraguay,0.27,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Mandarina,s/especificar,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Melon,Comun,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Manzana ,Roja,Argentina,1.07,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Manzana ,Verde,Argentina,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Mango,Injertado,Paraguay,0.42,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Naranja,Comun,Argentina,1.05,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Pera,s/especificar,Argentina,0.22,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Piña,Abacaxi,Paraguay,0.14,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Pomelo,s/especificar,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Sandia,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Uva,Blanca,Varios,2.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Uva ,Negra ,Varios,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Uva,Rosada,Varios,2.45,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Aji,,,1.36,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Ajo ,s/especificar,Argentina,0.59,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Apio ,s/especificar,Paraguay,0.25,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Batata ,Colorada,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Berenjena ,s/especificar,Paraguay,0.77,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Brocoli ,s/especificar,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Calabaza,s/especificar,Paraguay,0.51,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Cebolla colorada,cabeza colorada,Varios,1.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Coliflor,s/especificar,Paraguay,1.18,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Lechuga criolla,Criolla,Paraguay,1.26,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Pimiento verde,Verde,Paraguay,1.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Pimiento rojo,Rojo,Brasil,0.78,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Tomate lisa,Lisa,Varios,0.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Tomate santa cruz,Santa cruz,Paraguay,0.71,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Remolacha,s/especificar,Paraguay,0.49,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Zanahoria,s/especificar,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Julio,Zapallo,s/especificar,Paraguay,0.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Aguacate,s/especificar,Paraguay,0.24,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Banana,Carape,Paraguay,0.35,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Ciruela,s/especificar,Argentina,2.75,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Durazno,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Frutilla,,,3.07,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Kiwi,s/especificar,Brasil,2.69,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Limon,Taiti,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Mamon,Comun,Paraguay,0.29,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Mandarina,s/especificar,Paraguay,0.3,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Melon,Comun,Paraguay,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Manzana ,Roja,Argentina,1.03,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Manzana ,Verde,Argentina,1.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Mango,Injertado,Paraguay,0.39,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Naranja,Comun,Argentina,1.01,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Pera,s/especificar,Argentina,0.19,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Piña,Abacaxi,Paraguay,0.16,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Pomelo,s/especificar,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Sandia,s/especificar,Brasil,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Uva,Blanca,Varios,2.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Uva ,Negra ,Varios,0,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Uva,Rosada,Varios,2.33,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Aji,,,1.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Ajo ,s/especificar,Argentina,0.54,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Apio ,s/especificar,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Batata ,Colorada,Paraguay,0.67,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Berenjena ,s/especificar,Paraguay,0.88,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Brocoli ,s/especificar,Paraguay,0.23,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Calabaza,s/especificar,Paraguay,0.37,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Cebolla colorada,cabeza colorada,Varios,1.08,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Coliflor,s/especificar,Paraguay,0.31,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Lechuga criolla,Criolla,Paraguay,1.21,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Pimiento verde,Verde,Paraguay,2.53,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Pimiento rojo,Rojo,Brasil,0.87,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Tomate lisa,Lisa,Varios,0.91,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Tomate santa cruz,Santa cruz,Paraguay,0.97,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Remolacha,s/especificar,Paraguay,0.56,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Zanahoria,s/especificar,Paraguay,0.28,USD,Dolares
+221,Paraguay,Mercado Central de Asunción,2018,Agosto,Zapallo,s/especificar,Paraguay,0.32,USD,Dolares
